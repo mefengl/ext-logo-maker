@@ -1,4 +1,4 @@
-🎨 **ext-logo-maker**
+# 🎨 **ext-logo-maker**
 
 Shrink images to fit perfectly as logos in the Chrome Store.
 
