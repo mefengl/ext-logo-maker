@@ -1,0 +1,42 @@
+{
+  "name": "ext-logo-maker",
+  "version": "0.1.0",
+  "description": "16/32/48/96/128.png made easy",
+  "author": "mefengl",
+  "license": "MIT",
+  "homepage": "https://github.com/mefengl/ext-logo-maker#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mefengl/ext-logo-maker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mefengl/ext-logo-maker/issues"
+  },
+  "keywords": [
+    "image",
+    "resize",
+    "logo",
+    "icon",
+    "extension",
+    "browser",
+    "firefox",
+    "chrome",
+    "opera",
+    "safari",
+    "edge"
+  ],
+  "main": "index.js",
+  "bin": {
+    "ext-logo-maker": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "archiver": "^5.3.2",
+    "sharp": "^0.30.7"
+  }
+}
